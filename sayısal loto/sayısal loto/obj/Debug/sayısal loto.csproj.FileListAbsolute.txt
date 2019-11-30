@@ -1,0 +1,13 @@
+C:\Users\can\source\repos\sayısal loto\sayısal loto\bin\Debug\sayısal loto.exe.config
+C:\Users\can\source\repos\sayısal loto\sayısal loto\bin\Debug\sayısal loto.exe
+C:\Users\can\source\repos\sayısal loto\sayısal loto\bin\Debug\sayısal loto.pdb
+C:\Users\can\source\repos\sayısal loto\sayısal loto\bin\Debug\MetroFramework.Design.dll
+C:\Users\can\source\repos\sayısal loto\sayısal loto\bin\Debug\MetroFramework.dll
+C:\Users\can\source\repos\sayısal loto\sayısal loto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\can\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csprojAssemblyReference.cache
+C:\Users\can\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal_loto.Form1.resources
+C:\Users\can\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal_loto.Properties.Resources.resources
+C:\Users\can\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csproj.GenerateResource.cache
+C:\Users\can\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csproj.CopyComplete
+C:\Users\can\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.exe
+C:\Users\can\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.pdb
