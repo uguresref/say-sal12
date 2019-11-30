@@ -30,7 +30,7 @@ namespace sayısal_loto
             label4.Text = rnd.Next(26, 33).ToString();
             label6.Text = rnd.Next(42, 49).ToString();
             label5.Text = rnd.Next(34, 41).ToString();
-           // metroTile1.Enabled = false;
+           metroTile1.Enabled = false;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
